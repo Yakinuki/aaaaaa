@@ -147,15 +147,6 @@ public class Logic {
 
         );
 
-        static int v1 = 0;
-        static int v2 = 0;
-        static int v3 = 0;
-        static int v4 = 0;
-        static Random rand = new Random();
-        static String operator = "" ;
-        static String displayedOperator = "" ;
-        static String diff = "";
 
-        static int solution = 0;
     }
 }
